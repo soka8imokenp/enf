@@ -1,5 +1,5 @@
 
-# 🛍 ERD - Интернет-магазин одежды (Django + HTMX + Alpine.js)
+# 🛍 Интернет-магазин одежды (Django + HTMX + Alpine.js)
 
 ## 🌟 Особенности проекта
 - **Современный стек**: Django + HTMX + Alpine.js
